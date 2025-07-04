@@ -24,3 +24,17 @@ Functionality represents the interactive features included in the design, such a
 ---
 
 Each of these elements works together to create a cohesive and user-friendly design that meets the goals of both users and stakeholders.
+
+## Types of Wireframes
+
+### Low-Fidelity Wireframes
+Low-fidelity wireframes are simple, rough sketches or outlines that focus on the basic structure and layout without detailed design elements. They often use simple shapes, placeholders, and minimal text. These wireframes are typically used early in the design process to brainstorm ideas, gather feedback quickly, and iterate on concepts without investing significant time or resources.
+
+### High-Fidelity Wireframes
+High-fidelity wireframes are detailed and refined representations of the final design. They include more precise layout, typography, spacing, and sometimes even colors and images. High-fidelity wireframes are usually created later in the design process to provide a clearer picture of the final product and to prepare for development and user testing.
+
+---
+
+## Wireframing in Figma as a Low-Fidelity Wireframe
+
+Figma is a popular design tool that allows users to create wireframes easily. When used for wireframing, Figma typically facilitates the creation of low-fidelity wireframes. Designers use simple shapes, grayscale elements, and basic text to quickly map out the structure and flow of a website or app. This approach helps teams communicate ideas early and make rapid changes without getting bogged down in visual details.
